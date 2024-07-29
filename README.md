@@ -1,4 +1,6 @@
-## Hi there 👋
+# Vinicius Kiyoshi Oshiro
+## About me
+I'm currently working on my skills in data science and analysis. And my main goal is to make into the data career!
 
 <!--
 **vinimoti/vinimoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
