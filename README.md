@@ -1,6 +1,12 @@
 # Vinicius Kiyoshi Oshiro
 ## About me
-I'm currently working on my skills in data science and analysis. And my main goal is to make into the data career!
+Data science and analysis is the path that I follow, and I may have some missteps. And my main goal is to make into the data career!\
+In my opinion data is a way to describe the world through a perspective that sounds more concrete, but not unbiased. We all have a personal bias and data is way to show us that bias and how wrong can it be.
+
+## My projects
+My list of projects may look like empty and without a lot of work on it and it's my fault. I usually tend to keep most of it for myself.
+* **Titanic** was my main project for while where I explored a lot of classification in Machine Learning and exploited the randomness of the random grid search.
+* **Credit Card Clutering** is a project where I devoloped during a class and went little further through the KNN
 
 <!--
 **vinimoti/vinimoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
