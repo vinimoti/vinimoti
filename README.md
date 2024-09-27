@@ -2,7 +2,7 @@
 ## About me
 Data science and analysis is the path that I follow, and I may have some missteps. And my main goal is to make into the data career!\
 In my opinion data is a way to describe the world through a perspective that sounds more concrete, but not unbiased. We all have a personal bias and data is way to show us that bias and how wrong can it be.
-### Job?
+### Career
 I'm looking for a job and i'm currently developing this as a personal and professional portfolio (includes some serious projects, some learning and some personal)\
 [<image src = "https://img.shields.io/badge/Gmail-D14836?style=flat-sqaured&logo=gmail&logoColor=white">]() ->  vinicius.k.oshiro@gmail.com \
 \
